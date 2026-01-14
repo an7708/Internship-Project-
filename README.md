@@ -4,7 +4,7 @@ A modern, responsive digital agency website built with **HTML, CSS, and JavaScri
 
 Website Link: https://incomparable-lily-e0ef41.netlify.app/
 
-## 🚀 Features
+##  Features
 
 -  Modern UI inspired by top SaaS products
 -  Glassmorphism Navbar (frosted glass effect)
@@ -17,7 +17,7 @@ Website Link: https://incomparable-lily-e0ef41.netlify.app/
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **HTML5**
 - **CSS3**
@@ -29,7 +29,7 @@ Website Link: https://incomparable-lily-e0ef41.netlify.app/
 
 ---
 
-## 📸 Preview
+##  Preview
 
 > Homepage includes:
 - Hero section with background image
@@ -39,7 +39,7 @@ Website Link: https://incomparable-lily-e0ef41.netlify.app/
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 Prodesk/
 │
@@ -53,7 +53,7 @@ Prodesk/
 
 ---
 
-## 🎯 Lighthouse Scores
+##  Lighthouse Scores
 
 | Category        | Score |
 |-----------------|-------|
@@ -66,52 +66,49 @@ Prodesk/
 
 ---
 
-## 🧊 Glassmorphism Navbar
+##  Glassmorphism Navbar
+- Implemented using CSS:
+- backdrop-filter: blur(12px);
+- background: rgba(255, 255, 255, 0.75);
+- Ensures clean separation without unwanted blending at edges.
 
-Implemented using:
-```css
-backdrop-filter: blur(12px);
-background: rgba(255, 255, 255, 0.75);
-Ensures clean separation without unwanted blending at edges.
+---
+## Dark Mode
+- Toggle switch for Light/Dark theme
+- Icon-based theme indicator
+- Smooth transition between themes
 
-> Dark Mode
-Toggle switch for Light/Dark theme
+---
+## Responsive Design
+- Mobile-first approach
+- Flexible layouts using Flexbox & Grid
+- Adaptive typography
 
-Icon-based theme indicator
+---
+## Learning Outcomes
+- Modern UI/UX design principles
+- CSS glassmorphism & animations
+- Performance & accessibility optimization
+- Real-world website structure
 
-Smooth transition between themes
+---
+## How to Run Locally
+- Clone the repository
+- bash
+- Copy code
+- git clone https://github.com/your-username/prodesk.git
+- Open index.html in your browser
+   > (Use Live Server for best results)
 
-> Responsive Design
-Mobile-first approach
+---
+## Contributing
+- Contributions, issues, and feature requests are welcome.
 
-Flexible layouts using Flexbox & Grid
+---
+## License
+- This project is licensed under the MIT License.
 
-Adaptive typography
-
-> Learning Outcomes
-Modern UI/UX design principles
-
-CSS glassmorphism & animations
-
-Performance & accessibility optimization
-
-Real-world website structure
-
-> How to Run Locally
-Clone the repository
-
-bash
-Copy code
-git clone https://github.com/your-username/prodesk.git
-Open index.html in your browser
-(Use Live Server for best results)
-
-> Contributing
-Contributions, issues, and feature requests are welcome.
-
-> License
-This project is licensed under the MIT License.
-
-> Author
-Anisha Madhukar
-Frontend Developer
+---
+## Author
+- Anisha Madhukar
+    > Frontend Developer
