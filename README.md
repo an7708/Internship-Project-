@@ -43,7 +43,7 @@ Website Link: https://incomparable-lily-e0ef41.netlify.app/
 - Hero section with background image
 - Services cards
 - Animated buttons & hover effects
-- Modern footer with social media icons
+- Modern footer with social media links
 
 ---
 
@@ -104,7 +104,7 @@ Prodesk/
 - Clone the repository
 - bash
 - Copy code
-- git clone https://github.com/your-username/prodesk.git
+- git clone https://github.com/an7708/prodesk.git
 - Open index.html in your browser
    > (Use Live Server for best results)
 
