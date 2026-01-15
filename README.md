@@ -4,6 +4,9 @@ A modern, responsive digital agency website built with **HTML, CSS, and JavaScri
 
 Website Link: https://incomparable-lily-e0ef41.netlify.app/
 
+<img width="1920" height="940" alt="image" src="https://github.com/user-attachments/assets/74e7e52e-b39e-4693-aed8-9193619a5f91" />
+
+
 ##  Features
 
 -  Modern UI inspired by top SaaS products
